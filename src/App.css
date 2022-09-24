@@ -1,0 +1,36 @@
+form{
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  }
+
+  body {
+    background-color: rgba(8, 65, 84, 0.249);
+  }
+
+  
+  table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 4rem;
+  }
+  
+   th,td {
+    border: 1px solid rgb(23, 23, 17);
+    padding:8px;
+   }
+   th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background: #0e3225;
+    color: yellow;
+
+   }
